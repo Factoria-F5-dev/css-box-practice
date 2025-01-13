@@ -1,9 +1,12 @@
-## Practica position en css🎨
+## Práctica position en css🎨
 
 En este repositorio , encontraras unos pequeños ejercicios para practicar la propiedad position de css y ordenar tus "cajas" en el sitio que necesites
 
 Encontrarás una carpeta con un pdf con el planteamiento de los ejercicios
 y las soluciones la carpeta de styles.
+
+`index.html`: en este archivo encontrarás ya maquetadas tus cajas listas para ordenarse
+
 
 ![box_practice.png](./figuras/pic/box_practice.PNG)
 
