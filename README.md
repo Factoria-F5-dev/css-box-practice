@@ -2,8 +2,7 @@
 
 En este repositorio , encontraras unos pequeños ejercicios para practicar la propiedad position de css y ordenar tus "cajas" en el sitio que necesites
 
-Encontrarás una carpeta con un pdf con el planteamiento de los ejercicios
-y las soluciones la carpeta de styles.
+Encontrarás una carpeta con un pdf con el planteamiento de los ejercicios.
 
 `index.html`: en este archivo encontrarás ya maquetadas tus cajas listas para ordenarse
 
