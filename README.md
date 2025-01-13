@@ -7,6 +7,8 @@ y las soluciones la carpeta de styles.
 
 `index.html`: en este archivo encontrarás ya maquetadas tus cajas listas para ordenarse
 
+`📁styles:` en esta carpeta encontrarás las cajas ya con el estilo aplicado, solo tendrás que cambiar la posición de cada una de las cajas pequeñas para adaptarlo a cada figura
+
 
 ![box_practice.png](./figuras/pic/box_practice.PNG)
 
