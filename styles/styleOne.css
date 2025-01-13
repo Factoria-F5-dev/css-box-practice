@@ -1,0 +1,60 @@
+:root{
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(255, 255, 255);
+}
+
+body{
+    background-color:  rgba(35, 31, 31, 0.863);
+    margin: 10%;
+}
+.blackContainer{
+    background-color: rgb(35, 31, 31);
+    position:relative;
+    margin:auto;
+    height: 500px;
+    width: 500px;
+}
+
+div{
+    border-radius: 5px;
+}
+
+h1{
+    text-align: center;
+    margin:2%;
+}
+
+/* boxes */
+
+.blueBox{
+    background-color: rgb(76, 108, 235);
+    height: 100px;
+    width: 100px;
+}
+
+.redBox{
+    background-color: rgb(235, 76, 100);
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top:0px;
+    right:0px;
+}
+
+.greenBox{
+    background-color: rgb(76, 235, 161);
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top:100px;
+    right: 200px;
+}
+
+.purpleBox{
+    background-color: rgb(203, 76, 235);
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top:200px;
+    right: 200px;
+}
